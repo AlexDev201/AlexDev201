@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Me apasiona la creación de proyectos Full Stack, con un enfoque especial en el desarrollo de APIs REST, la construcción de servidores y la modelación de bases de datos. Disfruto diseñar sistemas bien estructurados, escribir código limpio y aplicar buenas prácticas como testing y arquitectura escalable.<br><br>Siempre estoy aprendiendo y construyendo proyectos que me permitan mejorar mis habilidades y entender mejor cómo funcionan los sistemas de software de extremo a extremo.</p>
+<p align="left">Me apasiona la creación de proyectos Full Stack, con un enfoque especial en el desarrollo de APIs REST, la construcción de servidores y la modelación de bases de datos. Disfruto diseñar sistemas bien estructurados, escribir código limpio y aplicar buenas prácticas como testing y arquitectura escalable.<br><br>Siempre estoy aprendiendo y construyendo proyectos que me permitan mejorar mis habilidades y entender mejor cómo funcionan los sistemas de software de extremo a extremo.<br><br>Mi contacto:<br>https://www.linkedin.com/in/giovanny-alexander-molina-serna-6a882b290/</p>
 
 ###
 
