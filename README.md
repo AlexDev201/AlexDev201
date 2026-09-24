@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Giovanny Molina, desarrollador Backend Junior de la ciudad de Pereira, Risaralda</p>
+<p align="left">Soy Giovanny Molina, desarrollador Backend de la ciudad de Pereira, Risaralda</p>
 
 ###
 
